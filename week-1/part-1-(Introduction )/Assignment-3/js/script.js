@@ -1,0 +1,1 @@
+console.log("%cWelcome %cTo %cMy Website" , "color:red;", "color:green;", "background-color:blue; color:white;");
